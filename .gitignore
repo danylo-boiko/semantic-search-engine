@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+
+# JetBrains IDEs
+.idea/
+
+# Environments
+.env
+
+# System files
+.DS_Store
