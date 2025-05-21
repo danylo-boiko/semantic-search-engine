@@ -1,0 +1,9 @@
+scrapy-redis
+pydantic-settings
+unstructured
+mongoengine
+langcodes
+torch
+transformers
+einops
+sumy
