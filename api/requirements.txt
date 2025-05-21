@@ -1,0 +1,8 @@
+fastapi
+pydantic-settings
+mongoengine
+langchain-community
+torch
+transformers
+einops
+cohere
